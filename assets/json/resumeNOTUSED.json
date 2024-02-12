@@ -331,5 +331,25 @@
         "Evaluate lab work, reports and oral exam."
       ]
     }
+  ],
+  "societies": [
+    {
+      "title": "American Institute of Aeronautics and Astronautics (AIAA)",
+      "date": "2023",
+      "url": "",
+      "summary": "Young professional member"
+    },
+    {
+      "title": "International Mentoring Foundation For The Advancement Of Higher Education (IMFAHE)",
+      "date": "2022",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "VKI Alumni Association",
+      "date": "2017",
+      "url": "",
+      "summary": ""
+    }
   ]
 }
