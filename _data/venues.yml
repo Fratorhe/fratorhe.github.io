@@ -1,6 +1,34 @@
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+  color: "#15d6d0"
 
 "PhysRev":
   url: https://journals.aps.org/
+  color: "#00369f"
+
+"Aerosp Sci Technol":
+  url: https://www.sciencedirect.com/journal/aerospace-science-and-technology
+  color: "#0d376b"
+
+"J Cheminform":
+  url: https://jcheminf.biomedcentral.com/
+  color: "#72971e"
+
+
+"JTHT":
+  url: https://arc.aiaa.org/journal/jtht
+  color: "#cd709b"
+
+
+"JAAP":
+  url: https://www.sciencedirect.com/journal/journal-of-analytical-and-applied-pyrolysis
+  color: "#5e194e"
+
+
+"J Mater Sci":
+  url: https://materialstheory.springeropen.com/
+  color: "#ec4a4c"
+
+"AIAA J":
+  url: https://arc.aiaa.org/journal/aiaaj
+  color: "#b6ac28"

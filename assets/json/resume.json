@@ -1,156 +1,232 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Francisco Torres Herrador",
+    "label": "PhD - Aerospace Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "fratorhe@illinois.edu",
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "105 S Goodwin Ave",
+      "postalCode": "IL 61801",
+      "city": "Urbana",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Github",
+        "username": "fratorhe",
+        "url": "https://github.com/Fratorhe"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "University of Illinois Urbana‑Champaign, CHESS research group",
+      "position": "Postdoctoral Researcher",
+      "url": "https://chess.grainger.illinois.edu/",
+      "startDate": "2023-02-01",
+      "endDate": "",
+      "summary": "Studying the process of carbon deposition on carbon fiber materials and its effect in thermal protection systems with Professor Kelly Stephani.",
+      "highlights": [
+        "Develop accurate gas‑surface interaction model for deposition process.",
+        "Design and carry out experimental campaign to validate model.",
+        "Post‑test sample characterization."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "NASA Ames Research Center",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2018-07-01",
+      "endDate": "2018-09-01",
+      "summary": "Participated at the NASA Ames summer program in the group of Dr. Mansour to study the pyrolysis of the Phenolic Impregnated Carbon Ablator (PICA).",
+      "highlights": [
+        "Proposed a competitive kinetic model for PICA based on literature data.",
+        "Improved optimization framework with bayesian inference."
+      ]
+    },
+    {
+      "name": "NASA Ames Research Center",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2017-07-01",
+      "endDate": "2017-09-01",
+      "summary": "Participated at the NASA Ames summer program in the group of Dr. Mansour to study the pyrolysis of the Phenolic Impregnated Carbon Ablator (PICA).",
+      "highlights": [
+        "Proposed a multicomponent model for PICA based on literature data.",
+        "Developed a framework for optimization of kinetic parameters using Dakota and PATO."
+      ]
+    },
+    {
+      "name": "Von Karman Institute for Fluid Dynamics",
+      "position": "Research Master Project",
+      "url": "",
+      "startDate": "2016-09-01",
+      "endDate": "2017-06-01",
+      "summary": "Project continuation of my Master’s thesis entitled: Experimental characterization and simulation of pyrolysis phenomenon: From carbon composite ablators to Pacific islands plant biomass.",
+      "highlights": [
+        "Experimental analysis of both aerospace heat shield and biomass materials.",
+        "Investigation of the state of the art of the pyrolysis modelling.",
+        "Numerical simulations on two different FVM codes (OpenFOAM and Gpyro)."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Vrije Universiteit Brussel and Ghent Univeristy",
+      "location": "Belgium",
+      "url": "",
+      "area": "Aerospace Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2017-09-01",
+      "endDate": "2022-03-20",
+      "score": "",
+      "courses": [
+        "Thermal response of carbon composites submitted to high temperatures: application to atmospheric entry",
+        "Study the thermal degradation of thermal protection materials and space debris made of carbon composites such as carbon/phenolic or carbon/epoxy systems.",
+        "Understand changes in material properties when submitted to high temperatures.",
+        "Develop methodologies for characterization of material properties.",
+        "Graduated with greatest distinction."
+      ]
+    },
+    {
+      "institution": "von Karman Institute for Fluid Dynamics",
+      "location": "Belgium",
+      "url": "https://www.vki.ac.be/",
+      "area": "Aerospace Engineering",
+      "studyType": "Research Master",
+      "startDate": "2016-09-01",
+      "endDate": "2017-06-30",
+      "score": "",
+      "courses": [
+        "Specialization in High speed flows and thermal protection materials",
+        "Graduated with Honors"
+      ]
+    },
+    {
+      "institution": "Polytechnic University of Valencia",
+      "location": "Spain",
+      "url": "https://www.upv.es/",
+      "area": "Aerospace Engineering",
+      "studyType": "MSc",
+      "startDate": "2014-09-01",
+      "endDate": "2016-06-30",
+      "score": "",
+      "courses": [
+        "Two year master program",
+        "Specialization in fluid dynamics and materials"
+      ]
+    },
+    {
+      "institution": "Queen’s University Belfast",
+      "location": "Northern Ireland, UK",
+      "url": "https://www.qub.ac.uk/",
+      "area": "Aerospace Engineering",
+      "studyType": "BSc",
+      "startDate": "2013-09-01",
+      "endDate": "2014-06-30",
+      "score": "",
+      "courses": [
+        "Study abroad year with Erasmus fellowship",
+        "Focus on aircraft design"
+      ]
+    },
+    {
+      "institution": "Polytechnic University of Valencia",
+      "location": "Spain",
+      "url": "https://www.upv.es/",
+      "area": "Aerospace Engineering",
+      "studyType": "BSc",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-30",
+      "score": "",
+      "courses": [
+        "Four year bachelor program",
+        "Specialization in fluid dynamics and aircraft design"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Strategic Basic Research PhD fellowship",
+      "date": "2017",
+      "awarder": "Flemish Research Foundation (FWO)",
+      "url": "",
+      "summary": "Four year PhD fellowship."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Graduated with Honors",
+      "date": "2017",
+      "awarder": "von Karman Institute For Fluid Dynamics",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Fellowship Research Master",
+      "date": "2016",
+      "awarder": "NATO von Karman Institute For Fluid Dynamics",
+      "url": "",
+      "summary": "Fellowship to study the VKI research master program."
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Erasmus Fellowship",
+      "date": "2013",
+      "awarder": "European Commission",
+      "url": "",
+      "summary": "Fellowship to study abroad at Queen's University Belfast."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Matlab/Simulink",
+        "Fortran",
+        "C++",
+        "Git"
+      ]
+    },
+    {
+      "name": "Simulation and design",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "OpenFOAM",
+        "Cantera",
+        "ANSYS",
+        "Solidworks"
+      ]
+    },
+    {
+      "name": "Analysis techniques",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Thermogravimetric Analysis",
+        "Differential Scanning Calorimetry",
+        "Laser Flash Analysis",
+        "Infrared thermography",
+        "Scanning Electron Microscopy",
+        "Mass spectrometry",
+        "Raman spectroscopy",
+        "Microtomography"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Catalan",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -158,42 +234,102 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
-  "interests": [
+  "volunteer": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "organization": "IMFAHE",
+      "position": "Mentor",
+      "url": "https://www.linkedin.com/school/imfahe-mentors/",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "Participated in IMFAHE non‑profit organization mentoring program to help young graduates pursue their future. Mentored three MSc students to discover the best paths for their careers."
+    },
+    {
+      "organization": "Polytechnic University of Valencia",
+      "position": "Mentor",
+      "url": "",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "Participated in mentoring program at my home university to provide guidance to young graduates."
+    },
+    {
+      "organization": "Talk cosmic to me",
+      "position": "Organizer",
+      "url": "",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Took part in the organization of several science dissemination events."
+    },
+    {
+      "organization": "Reviewer for Scientific Journals",
+      "position": "Reviewer",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "",
+      "highlights": [
+        "Defence Technology, Elsevier",
+        "Industrial & Engineering Chemistry Research, American Chemical Society.",
+        "Composites Communications, Elsevier."
       ]
     }
   ],
-  "references": [
+  "teaching": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "organization": "University of Illinois Urbana‑Champaign",
+      "position": "Intermediate Gas Dynamics",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2024-01-01",
+      "summary": "Lecturer for part of the course on Intermediate Gas Dynamics course (ME 410) at UIUC. Course focuses on compressible flows, flows with smooth and abrupt area change, with friction, with heat addition, and with mass addition, flows with weak and strong waves, and shock waves."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "organization": "von Karman Institute for Fluid Dynamics",
+      "position": "Thesis Advisor",
+      "url": "",
+      "startDate": "2017-09-01",
+      "endDate": "2023-01-01",
+      "summary": "Supervised master students during their master thesis at the VKI on a variety of topics related to my research."
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "organization": "von Karman Institute for Fluid Dynamics",
+      "position": "Hands on Machine Learning for Fluid Dynamics",
+      "url": "",
+      "startDate": "2022-02-07",
+      "endDate": "2022-02-11",
+      "highlights": [
+        "Developed part of the course curriculum with Prof. Mendez.",
+        "Lectured Python programming and exercises relevant to ML.",
+        "Course with 150 attendees."
+      ]
+    },
+    {
+      "organization": "von Karman Institute for Fluid Dynamics",
+      "position": "Tools for Scientific Computing",
+      "url": "",
+      "startDate": "2020",
+      "endDate": "2022",
+      "highlights": [
+        "1 ECTS course from the VKI Research Master program.",
+        "Developed the curriculum for the course with Prof. Mendez.",
+        "Introductory course of programming in Python for scientists."
+      ]
+    },
+    {
+      "organization": "von Karman Institute for Fluid Dynamics",
+      "position": "Measurement techniques laboratory: Infrared temperature measurements",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "2020",
+      "highlights": [
+        "Lab advisor for research master students.",
+        "Evaluate lab work, reports and oral exam."
+      ]
     }
   ]
 }
