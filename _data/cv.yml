@@ -24,7 +24,8 @@
   type: time_table
   contents:
     - title: PhD Engineering Sciences and Chemical Engineering 
-      institution: Vrije Universiteit Brussel and Ghent University, Belgium
+      institution: Vrije Universiteit Brussel and Ghent University
+      location: Belgium
       year: 2017 - 2023
       description:
         - "Thermal response of carbon composites submitted to high temperatures application to atmospheric entry"
@@ -36,28 +37,32 @@
             - "Graduated with greatest distinction."
 
     - title: Research Master
-      institution: von Karman Institute for Fluid Dynamics, Belgium
+      institution: von Karman Institute for Fluid Dynamics
+      location: Belgium
       year: 2016 - 2017
       description:
         - "Specialization in High speed flows and thermal protection materials."
         - "Graduated with honors"
 
     - title: MSc Aerospace Engineering
-      institution: Polytechnic University of Valencia, Spain
+      institution: Polytechnic University of Valencia
+      location: Spain
       year: 2016 - 2017
       description:
         - "Two year master program"
         - "Specialization in fluid dynamics and materials"
 
     - title: BSc Aerospace Engineering
-      institution: Queen's University Belfast, UK
+      institution: Queen's University Belfast
+      location: UK
       year: 2013 - 2014
       description:
         - "Study abroad year with Erasmus fellowship"
         - "Specialization in aircraft design"
 
     - title: BSc Aerospace Engineering
-      institution: Polytechnic University of Valencia, Spain
+      institution: Polytechnic University of Valencia
+      location: Spain
       year: 2010 - 2014
       description:
         - "Four year bachelor program"
@@ -68,7 +73,8 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
-      institution: CHESS research group, University of Illinois Urbana‑Champaign, Illinois, US
+      institution: CHESS research group, University of Illinois Urbana‑Champaign, Illinois
+      location: USA
       year: 2023 - 
       description:
         - Studying the process of carbon deposition on carbon fiber materials and its effect in thermal protection systems with Professor Kelly Stephani.
@@ -78,7 +84,8 @@
             - Design and carry out experimental campaign to validate model.
             - Post‑test sample characterization.
     - title: Visiting Scholar
-      institution: NASA Ames Research Center, California, US
+      institution: NASA Ames Research Center, California
+      location: USA
       year: 2018/07 - 2018/09
       description:
         - Participated at the NASA Ames summer program in the group of Dr. Mansour to study the pyrolysis of the Phenolic Impregnated Carbon Ablator (PICA).
@@ -88,7 +95,8 @@
             - "Improved optimization framework with bayesian inference."
     
     - title: Visiting Scholar
-      institution: NASA Ames Research Center, California, US
+      institution: NASA Ames Research Center, California
+      location: USA
       year: 2017/07 - 2017/09
       description:
         - Participated at the NASA Ames summer program in the group of Dr. Mansour to study the pyrolysis of the Phenolic Impregnated Carbon Ablator (PICA).
@@ -100,33 +108,44 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2017
-      items:
-        - Strategic Basic Research PhD fellowship (FWO)
-        - Graduated with Honors VKI research Master
-    - year: 2016
-      items:
+    - title: PhD Fellowship 
+      institution: Flemish Research Foundation
+      location: Belgium
+      year: 2017
+      description:
+        - Strategic Basic Research PhD fellowship
+    - title: Graduated with Honors 
+      institution: von Karman Institute
+      location: Belgium
+      year: 2016
+      description:
         - Fellowship VKI Research Master
-    - year: 2013
-      items:
-        - Erasmus Fellowship
+    - title: Erasmus
+      institution: Queen's University Belfast
+      location: UK
+      year: 2013
+      description:
+        - One year study abroad.
 
 - title: Teaching
   type: time_table
   contents:
     - title: Lecturer - Intermediate Gas Dynamics
-      institution: University of Illinois Urbana Champaign, Illinois, US
+      institution: University of Illinois Urbana Champaign, Illinois
+      location: USA
       year: 2023/09 - 2024/01 
       description:
         - Lecturer for part of the course on Intermediate Gas Dynamics course (ME 410) at UIUC. Course focuses on compressible flows, flows with smooth and abrupt area change, with friction, with heat addition, and with mass addition, flows with weak and strong waves, and shock waves.
     - title: Thesis advisor
-      institution: von Karman Institute for Fluid Dynamics, Belgium
+      institution: von Karman Institute for Fluid Dynamics
+      location: Belgium
       year: 2017/09 - 2023/01
       description:
         - Supervised master students during their master thesis at the VKI on a variety of topics related to my research.
     
     - title: Lecturer - Hands on Machine Learning for Fluid Dynamics
-      institution: von Karman Institute for Fluid Dynamics, Belgium
+      institution: von Karman Institute for Fluid Dynamics
+      location: Belgium
       year: 2022/02
       description:
         - Developed part of the course curriculum with Prof. Mendez.
@@ -134,7 +153,8 @@
         - Course with 150 attendees.
 
     - title: Lecturer - Tools for Scientific Computing
-      institution: von Karman Institute for Fluid Dynamics, Belgium
+      institution: von Karman Institute for Fluid Dynamics
+      location: Belgium
       year: 2022/02
       description:
         - 1 ECTS course from the VKI Research Master program.
@@ -142,7 +162,8 @@
         - Introductory course of programming in Python for scientists.
 
     - title: Teaching assistant - Measurement techniques laboratory Infrared temperature measurements
-      institution: von Karman Institute for Fluid Dynamics, Belgium
+      institution: von Karman Institute for Fluid Dynamics
+      location: Belgium
       year: 2017 - 2020
       description:
         - Lab advisor for research master students.
@@ -170,17 +191,20 @@
         - Industrial & Engineering Chemistry Research, American Chemical Society.
         - Composites Communications, Elsevier.
     - title: Mentor
-      institution: IMFAHE, USA
+      institution: IMFAHE
+      location: USA
       year: 2023, 2024
       description:
         - Participated in IMFAHE non‑profit organization mentoring program to help young graduates pursue their future. Mentored three MSc students to discover the best paths for their careers.
     - title: Mentor
-      institution: Polytechnic University of Valencia, Spain
+      institution: Polytechnic University of Valencia
+      location: Spain
       year: 2020 - 2022
       description:
         - Participated in mentoring program at my home university to provide guidance to young graduates.
     - title: Event Organizer
-      institution: Talk cosmic to me, Belgium
+      institution: Talk cosmic to me
+      location: Belgium
       year: 2019 - 2020
       description:
         - Took part in the organization of several science dissemination events.
